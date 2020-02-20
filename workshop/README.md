@@ -11,7 +11,7 @@ Welcome to our workshop! In this workshop we'll be using foo to accomplish bar. 
 The introductory page of the workshop is broken down into the following sections:
 
 * [Agenda](#agenda)
-* [Compatability](#compatability)
+* [Compatibility](#compatibility)
 * [Technology Used](#technology-used)
 * [Credits](#credits)
 
@@ -22,7 +22,7 @@ The introductory page of the workshop is broken down into the following sections
 | [Exercise 0: Pre-work](pre-work/README.md) | Pre-work for the project |
 | [Exercise 1: Some Exercise](some-exercise/README.md) | Exercise to do the thing |
 
-## Compatability
+## Compatibility
 
 This workshop has been tested on the following platforms:
 
