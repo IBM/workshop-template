@@ -1,9 +1,8 @@
 # Summary
 
 <!-- Rules of SUMMARY.md are here: https://docs.gitbook.com/integrations/github/content-configuration#summary -->
+<!-- All headings MUST be THREE hashmarks (###) -->
 <!-- Indented bullets (4 spaces) will make the first line be a section -->
-
-## A grouping of pages
 
 ### Getting Started
 
@@ -17,8 +16,6 @@
 ### Workshop Resources
 
 * [Instructor Guide](admin-guide/README.md)
-
-## Another Grouping
 
 ### Resources
 
