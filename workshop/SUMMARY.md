@@ -8,7 +8,7 @@
 
 ### Some Heading
 
-* [Step Title](some-step/README.md)
+* [Step Title](some-exercise/README.md)
 
 ### Workshop Resources
 
