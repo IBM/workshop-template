@@ -11,7 +11,7 @@
 ### Some Heading
 
 * [Some Section](some-section/README.md)
-    * [Some Exercise](exercise/README.md)
+    * [Some Exercise](some-exercise/README.md)
 
 ### Workshop Resources
 
