@@ -1,7 +1,8 @@
-matrix:
-  include:
-    - language: node_js
-      node_js: 10
-      script:
-        - npm install markdownlint-cli
-        - markdownlint --config .markdownlint.json --ignore workshop/SUMMARY.md --ignore workshop/README.md workshop
+---
+language: node_js
+node_js: 10
+
+before_script:
+  - npm install markdownlint-cli
+script:
+  - markdownlint -c .markdownlint.json workshop
