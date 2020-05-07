@@ -18,5 +18,5 @@ do
 		echo "    * [generatedContent/$workshopName/$labName](generatedContent/$workshopName/$labName/README.md)" >> workshop/generatedContentLinks.md
 		echo "Lab -> $(basename "$lab")"
 	done
-	echo "This content is generated! Do not edit directly! Please run aggregateStuff.sh to repopulate with latest content from agenda.txt!" > workshop/generatedContent/README.md
+	echo "This content is generated! Do not edit directly! Please run aggregate-labs.sh to repopulate with latest content from agenda.txt!" > workshop/generatedContent/README.md
 done
