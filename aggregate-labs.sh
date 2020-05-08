@@ -14,7 +14,12 @@ do_the_thing(){
         echo "adding $repo to agenda"
         workshopName=$(basename "$repo")
     	git clone "$repo" tempClones/"$workshopName"
-    	cp -a tempClones/"$workshopName"/workshop workshop/generatedContent/"$workshopName"
+        if [[ -d tempClones/"$workshopName"/workshop ]]; then
+            cp -a tempClones/"$workshopName"/workshop workshop/generatedContent/"$workshopName"
+        else
+            rm -rf tempClones/"$workshopName"/.git*
+            cp -a tempClones/"$workshopName" workshop/generatedContent/"$workshopName"
+        fi
     	echo "* [generatedContent/$workshopName](generatedContent/$workshopName/README.md)" >> workshop/generatedContentLinks.md
     	for lab in workshop/generatedContent/"$workshopName"/*/*; do
             [[ -d "$lab" ]] || break
