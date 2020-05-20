@@ -37,11 +37,11 @@ magick mogrify -bordercolor gray -border 2
 
 To ensure a common design for IBM workshops please use following options:
 
-* Select in Theme & Colors `Theme: Bold` and `Color: #1C6DBC`
+* Select in `Theme & Colors` the theme: `Bold` and the color: `#1C6DBC`
 
 ![](workshop/.gitbook/generic/gitbook-theme-and-color.png)
 
-* Select in Logo & Title the IBM logo
+* Select in `Logo & Title` the IBM logo
 
 ![](workshop/.gitbook/generic/gitbook-logo.png)
 
