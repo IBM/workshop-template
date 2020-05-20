@@ -43,18 +43,18 @@ To ensure a common design for IBM workshops please use following options:
 
 * Select in Logo & Title the IBM logo
 
-![](.gitbook/gitbook-logo.png)
+![](workshop/.gitbook/generic/gitbook-logo.png)
 
-### Understand the major gitbook template structure
+### Understand the major GitBook template structure
 
-It is useful to understand the used GitBokk structure of this [template](https://docs.gitbook.com/integrations/github/content-configuration#structure).
+It is useful to understand the used GitBook structure of this [template](https://docs.gitbook.com/integrations/github/content-configuration#structure).
 
 * [README.md](https://docs.gitbook.com/integrations/github/content-configuration#structure): Each README.md dictates the Table of Contents on the right hand side.
 * [SUMMARY.md](https://docs.gitbook.com/integrations/github/content-configuration#summary): This dictates the Table of Contents on the left hand side.
   * [root](https://docs.gitbook.com/integrations/github/content-configuration#root): Path to lookup for your documentation defaults to the root directory of the repository.
 * [.gitbook.yaml](https://docs.gitbook.com/integrations/github/content-configuration): You can configure how GitBook should parse your Git repository using the.gitbook.yaml file that must rely on the root of your repository.
 
-The image shows the file names and thier resonsibility.
+The image shows the file names and thier resonsibilities.
 
 ![](.gitbook/gitbook-mainstructure.png)
 
