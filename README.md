@@ -56,6 +56,6 @@ It is useful to understand the used GitBook structure of this [template](https:/
 
 The image shows the file names and thier resonsibilities.
 
-![](.gitbook/gitbook-mainstructure.png)
+![](workshop/.gitbook/generic/gitbook-mainstructure.png)
 
 
