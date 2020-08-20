@@ -8,24 +8,47 @@
 
 * [Pre-work](pre-work/README.md)
 
-### Some Heading
-
-* [Some Section](some-section/README.md)
-    * [Some Exercise](some-exercise/README.md)
-
 ### Threat Modeling & Identity Management
 
-* [Some Section](some-section/README.md)
+* [Lecture](some-section/README.md)
     * [Some Exercise](some-exercise/README.md)
+* [Lab](some-section/README.md)
+    * [Some Exercise](some-exercise/README.md)
+
 
 ### Operator Workshop
 
-* [Some Section](some-section/README.md)
+* [Lecture](some-section/README.md)
     * [Some Exercise](some-exercise/README.md)
+* [Lab](some-section/README.md)
+    * [Some Exercise](some-exercise/README.md)
+
 
 ### Microservice Workshop
 
-* [Some Section](some-section/README.md)
+* [Lecture](some-section/README.md)
+    * [Some Exercise](some-exercise/README.md)
+
+### Service Mesh Workshop
+
+* [Lecture](some-section/README.md)
+    * [Some Exercise](some-exercise/README.md)
+* [Lab](some-section/README.md)
+    * [Some Exercise](some-exercise/README.md)
+
+
+### Serverless Workshop
+
+* [Lecture](some-section/README.md)
+    * [Some Exercise](some-exercise/README.md)
+* [Lab](some-section/README.md)
+    * [Some Exercise](some-exercise/README.md)
+
+### Pipelines (Tekton) Workshop
+
+* [Lecture](some-section/README.md)
+    * [Some Exercise](some-exercise/README.md)
+* [Lab](some-section/README.md)
     * [Some Exercise](some-exercise/README.md)
 
 ### Workshop Resources
