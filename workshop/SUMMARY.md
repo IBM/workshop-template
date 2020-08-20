@@ -20,7 +20,13 @@
 
 ### Operator Workshop
 
+* [Some Section](some-section/README.md)
+    * [Some Exercise](some-exercise/README.md)
+
 ### Microservice Workshop
+
+* [Some Section](some-section/README.md)
+    * [Some Exercise](some-exercise/README.md)
 
 ### Workshop Resources
 
