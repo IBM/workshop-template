@@ -1,12 +1,12 @@
 
-## Workshop Title
+## IBM Developer Interactive Conference - Lab Stream
 
-Welcome to our workshop! In this workshop we'll be using foo to accomplish bar. The goals of this workshop are:
+Welcome to our conference! In this set of workshops we'll be using discussing various concepts of Build Smart Build Secure all while setting up an example application. The goals of this workshop are:
 
 * Goals!
 * Have fun!
 
-### About this workshop
+### About this conference
 
 The introductory page of the workshop is broken down into the following sections:
 
@@ -14,6 +14,9 @@ The introductory page of the workshop is broken down into the following sections
 * [Compatibility](#compatibility)
 * [Technology Used](#technology-used)
 * [Credits](#credits)
+* [Threat Modeling and Identity Management](#threat-modeling-and-identity-management)
+* [Operator Workshop](#operator-workshop)
+* [Microservice-Workshop](#microservice-workshop)
 
 ## Agenda
 
