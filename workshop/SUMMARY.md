@@ -13,6 +13,12 @@
 * [Some Section](some-section/README.md)
     * [Some Exercise](some-exercise/README.md)
 
+### Threat Modeling & Identity Management
+
+### Operator Workshop
+
+### Microservice Workshop
+
 ### Workshop Resources
 
 * [Instructor Guide](admin-guide/README.md)
