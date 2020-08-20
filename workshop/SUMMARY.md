@@ -15,6 +15,9 @@
 
 ### Threat Modeling & Identity Management
 
+* [Some Section](some-section/README.md)
+    * [Some Exercise](some-exercise/README.md)
+
 ### Operator Workshop
 
 ### Microservice Workshop
