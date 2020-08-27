@@ -1,6 +1,8 @@
 
 ## IBM Developer Interactive Conference - Lab Stream
 
+![https://s3.us-east.cloud-object-storage.appdomain.cloud/staging-sombra/default/conferences/digital-developer-conference-hybrid-cloud/highlight.jpg](banner)
+
 Welcome to our conference! In this set of workshops we'll be using discussing various concepts of Build Smart Build Secure all while setting up an example application. The goals of this workshop are:
 
 * Goals!
