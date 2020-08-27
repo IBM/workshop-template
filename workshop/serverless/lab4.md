@@ -1,4 +1,4 @@
-Steps
+## Steps
 
     Install OpenShift Serverless Operator
     Install CouchDB Events Source
@@ -8,7 +8,7 @@ Steps
     Install the broker and triggers
     Make changes to the database
 
-1. Install OpenShift Serverless Operator
+### 1. Install OpenShift Serverless Operator
 
 You can install the OpenShift Serverless Operator by using the OperatorHub in your OpenShift dashboard. Use Update Channel version 4.5.
 
@@ -19,26 +19,26 @@ Screen capture of the Create Operator Subscription panel
 This tutorial is using Knative Serving and Eventing. You can run stateless serverless service with Knative Serving. To subscribe to event sources, you need Knative Eventing.
 
 To install Knative Serving
-
+```
 $ oc create namespace knative-serving
 $ oc apply -f knative-serving.yaml
-
+```
 Make sure that the status of Knative Serving is ready, which might take a few minutes.
-
+```
 $ oc get knativeserving.operator.knative.dev/knative-serving -n knative-serving --template='{{range .status.conditions}}{{printf "%s=%s\n" .type .status}}{{end}}'
 
 DependenciesInstalled=True
 DeploymentsAvailable=True
 InstallSucceeded=True
 Ready=True
-
+```
 Proceed to installing Knative Eventing.
-
+```
 $ oc create namespace knative-eventing
 $ oc apply -f knative-eventing.yaml
-
+```
 Make sure that the status of Knative Eventing is ready, which might take a few minutes.
-
+```
 $ oc get knativeeventing.operator.knative.dev/knative-eventing \
   -n knative-eventing \
   --template='{{range .status.conditions}}{{printf "%s=%s\n" .type .status}}{{end}}'
@@ -46,14 +46,14 @@ $ oc get knativeeventing.operator.knative.dev/knative-eventing \
 
 InstallSucceeded=True
 Ready=True
-
-2. Install CouchDB Events Source
+```
+### 2. Install CouchDB Events Source
 
 Install CouchDB Events Source to allow the serverless platform to listen for changes in a CouchDB database.
 
 $ oc apply -f https://github.com/knative/eventing-contrib/releases/download/v0.15.1/couchdb.yaml
 
-3. Create a CouchDB and an Event Source
+### 3. Create a CouchDB and an Event Source
 
 Create a CouchDB deployment in your cluster by using the yaml file provided in the repo.
 
@@ -78,7 +78,7 @@ You can now create a CouchDB event source with the users database. Create a secr
 $ oc apply -f couchdb-secret.yaml
 $ oc apply -f couchdb-source.yaml
 
-4. Build the sample Node.js serverless application
+### 4. Build the sample Node.js serverless application
 
 The repo provides the source code for the sample Node.js serverless application. You can choose to build it and push it to Docker Hub.
 
@@ -92,7 +92,7 @@ $ docker push <image-name>
 Then, change the image name with yours in serverless-app.yaml.
 
 The application uses the CloudEvents SDK to read events from OpenShift serverless event sources. CloudEvents is a specification for describing event data in a common way to provide interoperability across services, platforms, and systems. The CloudEvents SDK for JavaScript is in the cloudevents/sdk-javascript GitHub repo.
-5. Deploy the serverless application
+### 5. Deploy the serverless application
 
 You can now deploy the sample application. This is your Knative Serving Service (usually called Knative service).
 
