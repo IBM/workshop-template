@@ -36,7 +36,7 @@
 * [Lecture](some-section/README.md)
     * [Some Exercise](some-exercise/README.md)
 * [Lab](some-section/README.md)
-    * [Lab 4](some-exercise/README.md)
+    * [Lab 4](serverless/lab4.md)
 
 
 ### Service Mesh Workshop
