@@ -30,6 +30,10 @@
     * [Some Exercise](some-exercise/README.md)
 * [Lab](some-section/README.md)
     * [Lab 3](some-exercise/README.md)
+        *[Introduction](lab3/intro.md)
+        *[Lab 3](lab3/lab3.md)
+        *[Tasks](lab3/tasks.md)
+        *[Tooling](lab3/tooling.md)
 
 ### Serverless Workshop
 
