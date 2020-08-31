@@ -36,10 +36,22 @@
 
 ### Serverless Workshop
 
-* [Lecture](some-section/README.md)
-    * [Some Exercise](some-exercise/README.md)
+* [Introduction](some-section/README.md)
+    * [Example Bank App Architecture](serverless/introduction/example-bank-app-architecture.md)
+    * [Serverless](serverless/introduction/serverless.md)
+    * [Prerequisites](serverless/introduction/prerequisites.md)
+    * [Quick Install - Identity Management, Operator, Microservices Workshops](serverless/introduction/quick-install-microservices-lab.md)
 * [Lab](some-section/README.md)
-    * [Lab 4](serverless/lab4.md)
+    * [Installing OpenShift Serverless](serverless/lab/installing-openshift-serverless.md)
+    * [Installing Knative Serving](serverless/lab/installing-knative-serving.md)
+    * [Clone the repo](serverless/lab/clone-the-repo.md)
+    * [Create an admin scoped user](serverless/lab/create-an-admin-scoped-user.md)
+    * [Building the example serverless application](serverless/lab/building-the-example-serverless-application.md)
+    * [Configure Deployment file](serverless/lab/configure-deployment-file.md)
+    * [Deploying to OpenShift Serverless](serverless/lab/deploying-to-openshift-serverless.md)
+    * [Test the Serverless App](serverless/lab/test-the-serverless-app.md)
+    * [Modify Serverless App](serverless/lab/modify-serverless-app.md)
+    * [Conclusion](serverless/lab/conclusion.md)
 
 
 ### Service Mesh Workshop
