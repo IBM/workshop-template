@@ -34,7 +34,7 @@ $ export APIKEY=YOUR_API_KEY
 
 Log in with the OpenShift cluster provided for you using the OpenShift console
 
-![OpenShift Console](../.gitbook/assets/image%20%283%29.png)
+![OpenShift Console](../../.gitbook/generic/image%20%283%29.png)
 
 Create a project called example-bank
 

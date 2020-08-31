@@ -2,7 +2,7 @@
 
 The example bank system includes several microservices for handling user authentication and transaction mechanics.
 
-![Example Bank App Architecture](../.gitbook/assets/image%20%282%29.png)
+![Example Bank App Architecture](../../.gitbook/generic/image%20%282%29.png)
 
 This lab focuses on the serverless component that is part of the Example Bank app.
 

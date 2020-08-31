@@ -21,7 +21,7 @@ Knative Serving CRDs:
 
 Service, Revision, Route, Configuration
 
-![knative.dev/docs](../.gitbook/assets/image%20%284%29.png)
+![knative.dev/docs](../../.gitbook/generic/image%20%284%29.png)
 
 ## Knative Eventing
 

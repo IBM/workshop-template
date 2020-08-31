@@ -12,7 +12,7 @@ NAME                       HOST/PORT             PATH   SERVICES                
 mobile-simulator-service   ***.appdomain.cloud          mobile-simulator-service           <all>   edge          None
 ```
 
-![Simulator](../.gitbook/assets/simulatorgif.gif)
+![Simulator](../../.gitbook/generic/simulatorgif.gif)
 
 
 

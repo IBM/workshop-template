@@ -2,7 +2,7 @@
 
 ## 1. Open OpenShift web console from IBM Cloud
 
-![IBM Cloud dashboard](../.gitbook/assets/annotation-2020-08-23-122252.png)
+![IBM Cloud dashboard](../../.gitbook/generic/annotation-2020-08-23-122252.png)
 
 ## 2. Install OpenShift Serverless
 
@@ -16,5 +16,5 @@ You can install the **OpenShift Serverless Operator** using the OperatorHub in y
 
 For the next steps in the lab, you're gonna need to use the `oc` cli. To do this, grab the login command in your OpenShift console
 
-![](../.gitbook/assets/image.png)
+![](../../.gitbook/generic/image.png)
 
