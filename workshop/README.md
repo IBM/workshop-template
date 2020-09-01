@@ -1,7 +1,7 @@
 
 ## IBM Developer Interactive Conference - Lab Stream
 
-![ddc_header.png](banner)
+![banner](.gitbook/generic/ddc_header.png)
 
 Welcome to our conference! In this set of workshops we'll be using discussing various concepts of Build Smart Build Secure all while setting up an example application. The goals of this workshop are:
 
