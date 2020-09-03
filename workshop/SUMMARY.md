@@ -61,7 +61,7 @@
     * [Istio](some-exercise/README.md)
     * [IBMCloud specifics](some-exercise/README.md)
 * [Lab](some-section/README.md)
-    * [Lab 5](some-exercise/README.md)
+    * [Lab 5](mesh-lab/lab5.md)
 
 ### Pipelines (Tekton) Workshop
 
