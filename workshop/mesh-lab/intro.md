@@ -1,0 +1,1 @@
+OpenShift Service Mesh is based on Istio, but allows multiple control planes and management via OpenShift Console.
