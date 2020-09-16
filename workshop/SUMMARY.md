@@ -1,22 +1,22 @@
-# Summary
+# Table of contents
 
-<!-- Rules of SUMMARY.md are here: https://docs.gitbook.com/integrations/github/content-configuration#summary -->
-<!-- All headings MUST be THREE hashmarks (###) -->
-<!-- Indented bullets (4 spaces) will make the first line be a section -->
+* [Introduction](README.md)
 
-### Getting Started
+## Getting Started
 
-* [Pre-work](pre-work/README.md)
+* [Pre-work](getting-started/pre-work.md)
 
-### Some Heading
+## Some Heading
 
-* [Some Section](some-section/README.md)
-    * [Some Exercise](some-exercise/README.md)
+* [Some Section](some-heading/some-section/README.md)
+  * [Some Exercise](some-heading/some-section/some-exercise.md)
+  * [Test Page](some-heading/some-section/test-page.md)
 
-### Workshop Resources
+## Workshop Resources
 
-* [Instructor Guide](admin-guide/README.md)
+* [Instructor Guide](workshop-resources/admin-guide.md)
 
-### Resources
+## Resources
 
 * [IBM Developer](https://developer.ibm.com)
+
