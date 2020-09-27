@@ -54,8 +54,7 @@ It is useful to understand the used GitBook structure of this [template](https:/
   * [root](https://docs.gitbook.com/integrations/github/content-configuration#root): Path to lookup for your documentation defaults to the root directory of the repository.
 * [.gitbook.yaml](https://docs.gitbook.com/integrations/github/content-configuration): You can configure how GitBook should parse your Git repository using the `.gitbook.yaml` file that must rely on the root of your repository.
 
-The image shows the file names and their resonsibilities.
+The image shows the file names and their responsibilities.
 
 ![](workshop/.gitbook/generic/gitbook-mainstructure.png)
-
 
