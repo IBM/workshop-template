@@ -4,7 +4,7 @@ This is a template for workshops hosted on Gitbook. To view it online, go to:
 
 <https://ibm-developer.gitbook.io/workshop-template/>
 
-Create a new repo based off this template, and use the folowing folders as a guide:
+Create a new repo based off this template, and use the following folders as a guide:
 
 ```ini
 
@@ -52,10 +52,9 @@ It is useful to understand the used GitBook structure of this [template](https:/
 * [README.md](https://docs.gitbook.com/integrations/github/content-configuration#structure): Each README.md dictates the Table of Contents on the right hand side.
 * [SUMMARY.md](https://docs.gitbook.com/integrations/github/content-configuration#summary): This dictates the Table of Contents on the left hand side.
   * [root](https://docs.gitbook.com/integrations/github/content-configuration#root): Path to lookup for your documentation defaults to the root directory of the repository.
-* [.gitbook.yaml](https://docs.gitbook.com/integrations/github/content-configuration): You can configure how GitBook should parse your Git repository using the.gitbook.yaml file that must rely on the root of your repository.
+* [.gitbook.yaml](https://docs.gitbook.com/integrations/github/content-configuration): You can configure how GitBook should parse your Git repository using the `.gitbook.yaml` file that must rely on the root of your repository.
 
-The image shows the file names and thier resonsibilities.
+The image shows the file names and their responsibilities.
 
 ![](workshop/.gitbook/generic/gitbook-mainstructure.png)
-
 
