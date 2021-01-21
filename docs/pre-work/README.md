@@ -9,7 +9,7 @@ This section is broken up into the following steps:
 
 Ensure you have an IBM Cloud ID
 
-![Cloud Sign up](../.gitbook/generic/ibm-cloud-sign-up.png)
+![Cloud Sign up](../images/ibm-cloud-sign-up.png)
 
 ## 2. Download or clone the repo
 
