@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url>
+     <loc>https://remkohdev.github.io/workshop-setup/</loc>
+     <lastmod>2021-01-21</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://remkohdev.github.io/workshop-setup/pre-work/</loc>
+     <lastmod>2021-01-21</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://remkohdev.github.io/workshop-setup/lab-1/</loc>
+     <lastmod>2021-01-21</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://remkohdev.github.io/workshop-setup/resources/RESOURCES/</loc>
+     <lastmod>2021-01-21</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://remkohdev.github.io/workshop-setup/resources/CONTRIBUTORS/</loc>
+     <lastmod>2021-01-21</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://remkohdev.github.io/workshop-setup/resources/MKDOCS/</loc>
+     <lastmod>2021-01-21</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://remkohdev.github.io/workshop-setup/resources/ADMIN/</loc>
+     <lastmod>2021-01-21</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+</urlset>
