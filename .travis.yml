@@ -6,3 +6,4 @@ before_script:
   - npm install markdownlint-cli
 script:
   # - markdownlint -c .markdownlint.json docs
+  - echo "If you want a linter you should put it here, above is just an example"
