@@ -4,7 +4,7 @@ site_url: https://ibm.github.io/workshop-template
 site_author: IBM Developer
 
 # Repository
-repo_name: workshop-setup
+repo_name: workshop-template
 repo_url: https://github.com/ibm/workshop-template
 edit_uri: edit/master/docs
 
@@ -34,6 +34,7 @@ theme:
     code: IBM Plex Mono
   icon:
     logo: material/library
+  logo: images/ibm-blue-background.png
   features:
     - navigation.tabs
     #- navigation.instant
@@ -45,6 +46,7 @@ theme:
 # Plugins
 plugins:
   - search
+  - social
 
 # Customization
 extra:
