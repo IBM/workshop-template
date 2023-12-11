@@ -1,3 +1,9 @@
+---
+title: Introduction
+description: The description for the social card
+logo: images/ibm-blue-background.png
+---
+
 # Introduction
 
 ## Workshop Title
